@@ -1,0 +1,12 @@
+
+2
+Total Order Till Date: 0
+Name: sarnalika
+Phone Number: 13345678
+Food Price: 200
+Total qty: 1
+Total Guest: 5
+Date: 23.08.2023
+---------------------------------Total price For This Order: 200---------------------------------
+2
+1
