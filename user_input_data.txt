@@ -1,0 +1,5 @@
+City/State	Energy Consumption (kWh)	Pollution Emissions (kg CO2eq)
+Delhi				12324.0						768.0
+Goa				1234.0						34.0
+Kerala				24255.0						234.0
+UP				31244.0						768.0
