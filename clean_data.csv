@@ -1,0 +1,203 @@
+Gender,Course ,State,P_vehicle,Transportation,buy_pvehicle,petrol_expense,pvehicle_type,travel_expense,Satisfactions,Stay,bus_time,reachtime
+Male,MSc.DS,Kerala,No,Collage Bus,No,,,200,4,Thicket Street,7.5,15
+Male,MSc.DS,West Bengal,No,Collage Bus,Yes,,,500,4,Thicket Street,7.5,20
+Male,MSc.DS,West Bengal,Yes,Private Vehicle,Yes,1000,2,500,2,Hill View,8.05,10
+Female,MSc.DS,West Bengal,No,By walk,No,500,,200,2,Portofino,8.2,10
+Male,MSc.DS,Goa,No,Collage Bus,No,,,200,2,Portofino,8.05,15
+Male,MSc.DS,Kerala,No,By walk,Yes,500,2,500,4,Hill View,7.3,10
+Female,MSc.DS,West Bengal,No,By walk,No,500,2,200,3,Christ Residence,8.2,2
+Male,MSc.DS,Kerala,No,Collage Bus,Yes,2000,,200,4,Thicket Street,7.5,20
+Male,MSc.DS,West Bengal,No,By walk,No,,,200,4,Christ Residence,8.2,2
+Female,MSc.DS,Telangana,No,By walk,No,,,200,2,Christ Residence,8.2,5
+Female,MSc.DS,Kerala,No,Collage Bus,No,,,500,1,Portofino,8.05,5
+Male,MSc.DS,Kerala,No,Collage Bus,No,2000,4,500,4,Thicket Street,8.05,10
+Female,MSc.DS,Kerala,No,By walk,No,,,200,4,Christ Residence,8.05,5
+Male,MSc.DS,Kerala,No,By walk,Yes,,,200,4,Thicket Street,8.05,10
+Female,MSc.DS,Kerala,No,By walk,No,,,200,3,Christ Residence,7.3,2
+Male,MSc.DS,Kerala,No,By walk,Yes,500,,200,4,Thicket Street,7.5,15
+Male,MSc.DS,Goa,Yes,Collage Bus,No,500,4,200,3,Portofino,8.05,20
+Male,MSc.DS,Gujarat,No,Collage Bus,No,1000,2,1000,4,Portofino,7.5,30
+Male,MSc.DS,Kerala,No,By walk,Yes,500,2,500,2,Thicket Street,8.05,15
+Female,MSc.DS,Kerala,No,By walk,No,500,,200,2,Christ Residence,8.05,25
+Male,MSc.DS,Kerala,No,Collage Bus,No,,,200,3,Hill View,8.05,15
+Male,MSc.DS,Kerala,No,Collage Bus,No,1000,2,500,4,Thicket Street,7.5,20
+Female,MSc.DS,Kerala,No,By walk,No,500,2,200,3,Christ Residence,7.3,2
+Male,MSc.DS,West Bengal,No,By walk,No,500,,200,1,Christ Residence,7.3,2
+Male,MSc.DS,Kerala,No,By walk,No,1000,2,500,2,Portofino,7.5,2
+Female,MSc.DS,Gujarat,No,By walk,No,,,200,3,Hotel Celebrations,7.3,5
+Female,MSc.DS,Rajasthan,No,Collage Bus,No,500,,200,3,Christ Residence,7.3,5
+Female,MSc.DS,Gujarat,No,Collage Bus,No,500,,200,4,Hotel Celebrations,7.5,5
+Male,MSc.DS,Maharastra,Yes,Private Vehicle,No,1000,2,500,2,Hill View,8.05,10
+Female,MSc.DS,Kerala,No,Collage Bus,No,,,200,4,Hotel Celebrations,7.5,5
+Male,BBA,Bihar,No,Collage Bus,Yes,,,200,4,Thicket Street,7.5,10
+Male,BBA,Karnataka,No,Collage Bus,No,,,200,3,Club View,8.05,10
+Male,MSc.DS,Madhya Pradesh,No,By walk,No,,,200,3,Christ Residence,7.5,5
+Male,LLM,West Bengal,Yes,Private Vehicle,No,1000,2,500,3,Hill View,8.05,10
+Female,LLM,Kerala,No,By walk,No,500,,200,4,Christ Residence,7.5,5
+Female,LLM,Chhattisgarh,No,By walk,No,,,200,3,Hotel Celebrations,7.5,5
+Female,LLM,Tamil Nadu,No,Collage Bus,No,,,200,4,Portofino,7.5,10
+Male,BCom,Kerala,Yes,Private Vehicle,No,2000,2,1000,2,Portofino,8.05,10
+Female,MSc.EA,Kerala,No,By walk,No,500,,200,3,Christ Residence,7.3,2
+Male,MSc.DS,Andhra Pradesh,No,By walk,No,,,500,3,Hill View,7.5,10
+Female,MSc.EA,Haryana,No,Collage Bus,No,,,500,2,Portofino,8.05,10
+Male,MBA,Tamil Nadu,No,Collage Bus,Yes,,,500,4,School Street,7.5,15
+Female,MSc.EA,Bihar,No,By walk,Yes,,2,500,3,Portofino,7.5,20
+Female,BBA.LLB,Chhattisgarh,No,By walk,No,,,500,5,Christ Residence,7.5,2
+Female,BA.LLB,Goa,Yes,Rental Vehicle,Yes,2000,2,500,4,Thicket Street,8.2,30
+Male,BSc.EA,Arunachal Pradesh,No,Private Vehicle,Yes,500,2,200,3,Club View,8.05,15
+Male,BCom,Andhra Pradesh,Yes,By walk,No,500,2,200,4,School Street,8.4,20
+Female,BA.LLB,Andhra Pradesh,Yes,Collage Bus,Yes,500,2,200,1,Hill View,7.3,10
+Female,BBA,Arunachal Pradesh,No,Private Vehicle,No,2000,4,500,5,School Street,7.5,15
+Female,BA.LLB,Assam,Yes,Private Vehicle,No,2000,4,500,4,Thicket Street,7.5,10
+Male,BSc.DS,Bihar,No,By walk,Yes,500,2,500,3,Portofino,8.4,20
+Female,BBA.LLB,Chhattisgarh,Yes,Rental Vehicle,Yes,2000,2,500,5,School Street,8.05,10
+Male,MSc.DS,Uttar Pradesh,No,Collage Bus,Yes,2000,4,1000,2,Thicket Street,7.5,15
+Female,MSc.DS,Kerala,No,By walk,No,,,200,4,Christ Residence,8.2,10
+Male,MSc.DS,Kerala,No,By walk,Yes,500,2,500,4,School Street,8.05,20
+Female,MSc.DS,Kerala,No,By walk,No,,,200,5,Christ Residence,7.3,2
+Female,BSc.EA,Haryana,Yes,Private Vehicle,No,5000,4,500,4,Thicket Street,8.2,15
+Female,MBA,Chhattisgarh,Yes,Rental Vehicle,Yes,5000,4,1000,4,Portofino,8.05,15
+Female,BA.LLB,Goa,Yes,Collage Bus,Yes,,,1000,4,School Street,8.05,15
+Female,BSc.DS,Jharkhand,Yes,Private Vehicle,Yes,2000,4,500,3,Club View,8.05,20
+Male,MSc.DS,Jharkhand,No,By walk,No,,,200,5,Portofino,8.05,20
+Male,BBA.LLB,Himachal Pradesh,Yes,Private Vehicle,Yes,5000,4,1000,4,Thicket Street,8.4,15
+Female,BSc.DS,Assam,No,By walk,Yes,2000,2,500,3,Portofino,7.3,20
+Female,BSc.DS,West Bengal,Yes,By walk,Yes,2000,4,500,5,Portofino,8.2,30
+Female,BBA,Jharkhand,No,Rental Vehicle,Yes,5000,2,200,5,Club View,8.05,15
+Male,BBA.LLB,Nagaland,Yes,Private Vehicle,Yes,1000,2,200,3,Hill View,8.2,15
+Female,BSc.DS,Kerala,No,By walk,No,,,1000,2,School Street,8.2,20
+Female,MBA,Madhya Pradesh,Yes,Private Vehicle,Yes,1000,2,1000,4,Portofino,8.05,15
+Female,BSc.DS,Kerala,No,Rental Vehicle,Yes,500,,1000,1,Hill View,7.5,15
+Female,MBA,Haryana,Yes,Private Vehicle,Yes,500,2,200,4,School Street,8.4,20
+Female,BA.LLB,Assam,No,Collage Bus,Yes,,,500,5,School Street,8.05,15
+Female,BSc.DS,Madhya Pradesh,Yes,Private Vehicle,No,1000,2,1000,4,Club View,8.2,20
+Female,MBA,Goa,No,By walk,No,,,500,3,Portofino,8.2,10
+Female,BSc.DS,Odisha,No,Private Vehicle,No,2000,2,500,4,School Street,8.05,10
+Female,MBA,Chhattisgarh,No,Rental Vehicle,No,2000,4,1000,3,Portofino,8.05,10
+Female,BBA.LLB,Chhattisgarh,No,Collage Bus,Yes,,,200,4,Hill View,7.3,10
+Female,BA.LLB,Gujarat,No,By walk,Yes,,4,500,3,School Street,7.5,5
+Female,LLM,Kerala,Yes,Private Vehicle,Yes,5000,4,1000,5,Portofino,8.05,10
+Female,BBA.LLB,Goa,No,Collage Bus,No,,,200,3,Christ Residence,8.2,15
+Male,BBA.LLB,Madhya Pradesh,Yes,Private Vehicle,Yes,5000,2,500,5,Portofino,7.3,15
+Male,BBA.LLB,Goa,Yes,Private Vehicle,Yes,1000,2,200,3,Club View,8.05,10
+Male,BSc.EA,Meghalaya,Yes,Private Vehicle,Yes,2000,2,200,3,Thicket Street,8.05,15
+Male,MSc.DS,Goa,Yes,Private Vehicle,Yes,2000,2,500,4,Portofino,7.5,15
+Male,MSc.DS,Manipur,No,By walk,No,,,1000,5,Christ Residence,7.3,15
+Male,MSc.DS,Gujarat,Yes,By walk,Yes,2000,4,1000,1,Club View,8.2,15
+Female,MBA,Sikkim,Yes,By walk,Yes,2000,2,1000,4,Christ Residence,8.2,15
+Male,BSc.DS,Telangana,No,By walk,No,,,500,4,Portofino,8.2,25
+Female,MBA,Haryana,No,By walk,Yes,,,500,1,Christ Residence,8.2,15
+Female,MSc.DS,Manipur,Yes,By walk,Yes,2000,2,200,4,Thicket Street,7.3,10
+Male,BSc.EA,Gujarat,No,By walk,No,,,500,3,Thicket Street,8.05,15
+Female,BSc.DS,Maharastra,Yes,Private Vehicle,No,,,500,2,Club View,8.05,10
+Male,BSc.DS,Chhattisgarh,No,By walk,No,,,500,4,Christ Residence,7.3,5
+Male,BBA.LLB,Manipur,Yes,By walk,No,1000,2,500,3,Thicket Street,8.05,10
+Female,MBA,Rajasthan,Yes,Private Vehicle,Yes,500,4,500,3,Portofino,8.05,10
+Female,MBA,Chhattisgarh,Yes,Private Vehicle,Yes,1000,2,500,4,Portofino,8.05,20
+Male,BBA,Maharastra,Yes,By walk,No,2000,2,500,4,Club View,7.5,10
+Male,BSc.DS,Chhattisgarh,Yes,Private Vehicle,Yes,1000,4,500,3,Club View,7.3,25
+Female,LLM,Karnataka,No,By walk,No,,,200,3,Hotel Celebrations,7.5,5
+Female,BSc.DS,Uttarakhand,Yes,Private Vehicle,Yes,2000,2,500,3,Club View,8.05,15
+Male,LLM,Maharastra,No,Collage Bus,No,,,200,4,Portofino,7.5,10
+Male,MSc.DS,Andaman & Nicobar (UT),Yes,By walk,Yes,5000,4,500,4,Club View,8.05,20
+Female,BCom,Uttar Pradesh,No,By walk,No,,,200,3,Christ Residence,7.3,5
+Male,BSc.DS,Andhra Pradesh,Yes,Private Vehicle,No,2000,,500,3,Hill View,8.05,15
+Male,BBA,Tripura,No,By walk,No,,,200,4,Thicket Street,7.3,10
+Male,LLM,Goa,No,By walk,No,,,200,2,Thicket Street,7.5,15
+Male,BCom,Karnataka,Yes,Private Vehicle,No,2000,2,500,3,Christ Residence,8.05,5
+Female,LLM,Kerala,No,By walk,Yes,,,200,4,Christ Residence,7.5,2
+Female,BBA,Bihar,No,Collage Bus,Yes,,,200,4,Thicket Street,7.5,10
+Male,MBA,Kerala,Yes,Private Vehicle,No,1000,2,500,3,Portofino,8.2,10
+Male,BCom,Kerala,Yes,Collage Bus,No,,,200,3,Portofino,7.5,10
+Female,MBA,Kerala,No,By walk,No,500,,500,3,Christ Residence,8.4,5
+Male,BBA,Bihar,No,By walk,No,,,200,3,Portofino,7.5,5
+Female,BBA.LLB,Sikkim,No,Collage Bus,Yes,1000,2,200,3,Club View,8.05,10
+Male,BBA,Uttar Pradesh,No,Collage Bus,No,,,200,3,Hill View,7.5,10
+Male,LLM,Maharastra,No,Collage Bus,No,,,200,4,Christ Residence,7.5,5
+Male,MBA,Madhya Pradesh,Yes,Private Vehicle,No,2000,2,500,3,Hill View,8.05,10
+Male,BBA,Himachal Pradesh,No,Collage Bus,No,,,200,3,Portofino,7.5,10
+Male,BA.LLB,Tamil Nadu,No,Collage Bus,No,500,,500,3,Club View,7.5,10
+Female,MSc.EA,Kerala,Yes,Collage Bus,No,5000,2,500,4,Thicket Street,8.05,15
+Female,LLM,West Bengal,No,Collage Bus,No,,,200,4,Hotel Celebrations,7.5,5
+Female,MSc.EA,Kerala,No,Collage Bus,No,2000,2,500,3,Club View,8.05,15
+Female,BBA,Uttar Pradesh,No,Collage Bus,No,500,,500,4,Portofino,7.5,10
+Female,BBA.LLB,Karnataka,No,Private Vehicle,No,2000,2,500,3,Hill View,8.05,5
+Female,BA.LLB,Maharastra,No,By walk,No,500,,500,3,Hotel Celebrations,8.05,10
+Female,BA.LLB,Bihar,No,Collage Bus,Yes,1000,2,500,3,Portofino,8.05,15
+Male,BBA.LLB,Uttar Pradesh,No,Rental Vehicle,No,2000,2,500,3,Portofino,7.5,10
+Female,MSc.EA,Himachal Pradesh,Yes,Collage Bus,Yes,2000,2,500,3,Club View,8.05,25
+Female,BBA.LLB,West Bengal,No,By walk,No,500,,200,3,Hotel Celebrations,8.05,5
+Female,BA.LLB,Punjab,Yes,Collage Bus,No,1000,4,500,3,Portofino,7.5,5
+Male,BA.LLB,Kerala,Yes,Collage Bus,Yes,1000,2,500,3,School Street,8.05,15
+Male,BBA.LLB,Rajasthan,Yes,Private Vehicle,No,1000,2,500,3,Club View,7.5,15
+Female,BBA.LLB,Haryana,Yes,Collage Bus,Yes,500,2,200,4,Christ Residence,8.2,5
+Male,BBA,Gujarat,No,Collage Bus,No,,,200,3,Portofino,7.5,10
+Male,BBA.LLB,Delhi [National Capital Territory (NCT)],No,By walk,No,500,,200,3,Christ Residence,8.05,5
+Female,BBA.LLB,Karnataka,Yes,Collage Bus,Yes,1000,2,500,3,Club View,8.05,15
+Male,BBA,Chandigarh (UT),No,Private Vehicle,No,1000,2,500,3,Hill View,7.5,15
+Female,BCom,Assam,Yes,Collage Bus,Yes,1000,2,500,3,School Street,7.3,25
+Female,BBA,Kerala,No,Collage Bus,No,500,,200,3,Club View,7.5,10
+Male,BA.LLB,Madhya Pradesh,Yes,Collage Bus,No,1000,2,500,4,Portofino,8.05,10
+Male,BBA.LLB,Delhi [National Capital Territory (NCT)],No,By walk,No,500,,200,3,Christ Residence,8.05,5
+Female,BBA.LLB,Kerala,Yes,Collage Bus,Yes,1000,2,500,4,Club View,8.05,20
+Male,BBA.LLB,Uttarakhand,Yes,Private Vehicle,No,1000,2,500,3,Portofino,7.5,15
+Female,BBA.LLB,Kerala,No,Collage Bus,No,500,2,200,4,Christ Residence,8.05,15
+Female,BSc.EA,Madhya Pradesh,No,By walk,No,500,,200,3,Christ Residence,8.05,5
+Female,BBA.LLB,Kerala,No,By walk,No,2000,4,500,4,Portofino,8.2,15
+Female,BBA.LLB,Karnataka,Yes,Collage Bus,Yes,2000,2,500,4,Hotel Celebrations,7.3,15
+Female,BBA.LLB,Tamil Nadu,No,Collage Bus,Yes,1000,2,500,4,Christ Residence,8.2,5
+Female,BBA.LLB,Maharastra,Yes,Collage Bus,Yes,1000,2,200,4,School Street,7.3,25
+Female,BBA.LLB,Maharastra,Yes,Private Vehicle,No,2000,4,1000,4,Thicket Street,7.5,20
+Female,MSc.EA,Karnataka,Yes,Rental Vehicle,Yes,5000,4,500,4,Portofino,8.2,10
+Female,BBA.LLB,West Bengal,Yes,Collage Bus,Yes,500,2,200,3,Christ Residence,8.2,5
+Female,MSc.EA,Manipur,Yes,Collage Bus,Yes,2000,2,500,3,School Street,8.05,15
+Male,LLM,Madhya Pradesh,No,By walk,No,,,200,2,Thicket Street,7.5,10
+Female,LLM,Assam,No,By walk,No,,,200,3,Hotel Celebrations,7.5,5
+Male,LLM,Maharastra,Yes,Private Vehicle,No,5000,4,500,2,Hill View,7.5,15
+Female,LLM,Karnataka,No,Collage Bus,No,,,200,4,Hotel Celebrations,8.05,5
+Female,BBA.LLB,West Bengal,Yes,Collage Bus,Yes,1000,2,200,4,Christ Residence,8.2,20
+Male,LLM,Manipur,No,By walk,No,,,200,3,Portofino,7.5,10
+Male,MBA,Karnataka,Yes,Collage Bus,Yes,1000,2,500,3,Portofino,8.05,10
+Female,BBA.LLB,Chhattisgarh,Yes,Collage Bus,Yes,1000,2,200,2,Thicket Street,7.5,15
+Female,BBA.LLB,West Bengal,Yes,Collage Bus,Yes,1000,2,200,3,Club View,8.2,20
+Male,MSc.DS,West Bengal,No,Collage Bus,No,,,200,4,Hill View,7.5,10
+Female,MBA,Karnataka,Yes,Collage Bus,Yes,1000,4,1000,4,School Street,8.2,20
+Female,MBA,Goa,No,Collage Bus,No,,,200,3,Thicket Street,7.5,10
+Female,MBA,Delhi [National Capital Territory (NCT)],Yes,Private Vehicle,No,1000,4,500,3,Hill View,7.5,30
+Male,BA.LLB,Haryana,No,Collage Bus,No,,,200,3,Christ Residence,7.3,5
+Female,MSc.EA,Kerala,No,By walk,No,,,200,3,Portofino,8.05,10
+Female,BBA.LLB,Karnataka,Yes,By walk,Yes,500,2,1000,4,Portofino,7.3,10
+Male,MBA,Tamil Nadu,No,Collage Bus,Yes,,,200,4,Hill View,7.5,10
+Male,BBA.LLB,Kerala,No,By walk,No,2000,2,1000,3,Club View,8.05,15
+Male,MSc.DS,Tamil Nadu,No,Collage Bus,No,,,200,4,Hill View,7.5,10
+Female,MBA,Kerala,No,By walk,No,,,200,3,Christ Residence,8.05,5
+Female,BBA.LLB,Maharastra,Yes,Private Vehicle,No,2000,4,500,3,Thicket Street,7.5,25
+Male,BBA.LLB,Punjab,Yes,By walk,No,5000,2,500,4,School Street,8.2,15
+Female,BBA,Jharkhand,No,Collage Bus,No,,,200,4,Hotel Celebrations,7.3,5
+Female,BBA,Delhi [National Capital Territory (NCT)],No,Collage Bus,No,,,200,3,Christ Residence,7.5,5
+Male,BSc.DS,Uttar Pradesh,Yes,Collage Bus,No,1000,2,500,3,Club View,7.5,10
+Male,BBA.LLB,West Bengal,No,By walk,No,,,200,3,Christ Residence,7.5,5
+Male,BBA.LLB,Sikkim,No,Collage Bus,No,,,200,4,Hill View,7.3,10
+Female,MBA,Assam,No,By walk,Yes,2000,4,500,2,Thicket Street,7.3,20
+Female,LLM,Goa,No,Collage Bus,No,,,200,3,Portofino,7.5,15
+Male,MBA,Kerala,No,By walk,Yes,,,200,4,Club View,7.5,10
+Female,MSc.DS,West Bengal,No,By walk,No,,,200,3,Christ Residence,7.5,5
+Male,BBA,Goa,No,By walk,No,5000,4,500,5,Portofino,7.3,15
+Male,BBA,Option 5,Yes,Private Vehicle,Yes,500,2,1000,4,Club View,7.5,10
+Male,BBA.LLB,Karnataka,No,Collage Bus,No,,,200,4,Christ Residence,8.05,5
+Male,BBA,Gujarat,Yes,Rental Vehicle,No,5000,2,1000,4,Christ Residence,8.2,10
+Female,BCom,Maharastra,No,Collage Bus,No,,,200,3,Thicket Street,8.05,15
+Female,BBA.LLB,Karnataka,Yes,Collage Bus,Yes,2000,2,200,3,Hill View,7.3,5
+Female,LLM,Andhra Pradesh,No,Collage Bus,No,,,200,3,Hill View,7.5,10
+Male,BBA,Jharkhand,Yes,Collage Bus,Yes,1000,2,1000,3,Portofino,7.5,20
+Female,BSc.EA,Haryana,No,Collage Bus,No,,,200,3,Christ Residence,8.05,5
+Female,BSc.DS,Rajasthan,No,By walk,No,,,200,4,Hotel Celebrations,8.05,5
+Female,LLM,Kerala,No,By walk,No,,,200,3,Portofino,7.5,5
+Female,BBA.LLB,West Bengal,No,By walk,No,500,,500,3,Hotel Celebrations,8.05,5
+Male,BSc.EA,Delhi [National Capital Territory (NCT)],Yes,Rental Vehicle,No,1000,2,500,3,Portofino,8.05,10
+Female,BBA.LLB,Maharastra,No,Collage Bus,No,,,200,4,Hotel Celebrations,7.5,5
+Male,LLM,Telangana,No,By walk,No,,,200,3,Thicket Street,7.5,10
+Female,BBA,Chhattisgarh,Yes,Rental Vehicle,Yes,1000,2,500,3,Thicket Street,8.05,15
+Male,BBA.LLB,Rajasthan,No,By walk,No,,,200,4,Portofino,8.05,10
+Female,BBA,Karnataka,No,By walk,No,500,2,500,3,Christ Residence,8.05,10
+Female,BBA.LLB,Uttar Pradesh,No,By walk,No,500,,200,3,Hotel Celebrations,8.05,5
