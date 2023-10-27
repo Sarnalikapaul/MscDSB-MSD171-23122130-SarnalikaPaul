@@ -1,12 +1,18 @@
-# MscDSB-MSD171-23122130-SarnalikaPaul
+# MscDSB-MDS171-23122105-Sarnalika
+Name : Sarnalika Paul    
+Register No: 231221
 
-Name: Sarnalika Paul
 
-Register number: 23122130
 
-Email id: sarnalika.paul@msds.christuniversity.in
 
+<<<<<<< HEAD
 |Srno|DATE|FILE NAME|TOPIC|
+=======
+
+
+|Serial No.|    DATE     |  File Name       |                     QUESTION                         |      File Link            |             
+|----------|------------ | -----------------|------------------------------------------------------|---------------------------|
+>>>>>>> a81459e1aca4482647b9ffa9b0a0ed867c354888
 |   1      |  23-08-2023 |      lab01       |  Write a program to enter name and push it to github |    https://github.com/Sarnalikapaul/MscDSB-MSD171-23122130-SarnalikaPaul/blob/main/LAB/Lab01.ipynb|
 |   2      |  28-08-2023 |      lab02       |  The Name Collector's Quest with the Problems Associated with it |https://github.com/Sarnalikapaul/MscDSB-MSD171-23122130-SarnalikaPaul/blob/main/LAB/Lab02.ipynb           |
 |   3      |  31-08-2023 |      lab03       |  The Tale of Numbers' Harmony with the Problems Associated with it | https://github.com/Sarnalikapaul/MscDSB-MSD171-23122130-SarnalikaPaul/blob/main/LAB/Lab03.ipynb                |
@@ -19,4 +25,7 @@ Email id: sarnalika.paul@msds.christuniversity.in
 |   10      |  26-10-2023 |      lab10       |Create a Python Class for managing student details and marks. | https://github.com/Sarnalikapaul/MscDSB-MSD171-23122130-SarnalikaPaul/blob/main/LAB/lab_10.py |
 |   11      |  19-19-2023 |      CAC 1      |ased on the assigned groups, choose a unique domain and find the appropriate application of the following components in various use cases. Prepare a handwritten document in not less than two sides of an A4 sheet, summarising your findings and justifying the importance of using the component.| https://github.com/Sarnalikapaul/MscDSB-MSD171-23122130-SarnalikaPaul/blob/main/CAC/cac01.ipynb|
 |   12      |  25-10-2023 |      CAC 2       |The team must identify a Domain related to Lavasa (Student Life, Traveling Preferences, Food Preferences...), create a unique problem statement associated with the domain, and determine the attributes associated with  the problem. | https://github.com/Sarnalikapaul/MscDSB-MSD171-23122130-SarnalikaPaul/tree/main/CAC/cac02|
+<<<<<<< HEAD
 
+=======
+>>>>>>> a81459e1aca4482647b9ffa9b0a0ed867c354888
