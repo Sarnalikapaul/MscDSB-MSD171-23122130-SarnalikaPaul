@@ -10,7 +10,7 @@ Register No: 231221
 |Serial No.|    DATE     |  File Name       |                     QUESTION                         |      File Link            |             
 |----------|------------ | -----------------|------------------------------------------------------|---------------------------|
 |   1      |  23-08-2023 |      lab01       |  Write a program to enter name and push it to github |    https://github.com/Sarnalikapaul/MscDSB-MSD171-23122130-SarnalikaPaul/blob/main/LAB/Lab01.ipynb|
-|   2      |  28-08-2023 |      lab02       |  The Name Collector's Quest with the Problems Associated with it |https://github.com/AmanRana07/MscDSB-MDS171-23122105-Aman/tree/main/Labs/lab2               |
+|   2      |  28-08-2023 |      lab02       |  The Name Collector's Quest with the Problems Associated with it |https://github.com/Sarnalikapaul/MscDSB-MSD171-23122130-SarnalikaPaul/blob/main/LAB/Lab02.ipynb           |
 |   3      |  31-08-2023 |      lab03       |  The Tale of Numbers' Harmony with the Problems Associated with it | https://github.com/Sarnalikapaul/MscDSB-MSD171-23122130-SarnalikaPaul/blob/main/LAB/Lab03.ipynb                |
 |   4      |  05-09-2023 |      lab04       |  A Taste of Success: The Restaurant Management System | https://github.com/AmanRana07/MscDSB-MDS171-23122105-Aman/tree/main/Labs/lab4                    |
 |   5      |  12-09-2023 |      lab05       | Write a program for collecting a string from the user and counting the number of vowels|https://github.com/AmanRana07/MscDSB-MDS171-23122105-Aman/tree/main/Labs/lab5   |
