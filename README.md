@@ -20,7 +20,7 @@ Register No: 231221
 |   9      |  10-10-2023 |      lab09       |create a petstore class where you have the details of pets available and their details. | https://github.com/Sarnalikapaul/MscDSB-MSD171-23122130-SarnalikaPaul/tree/main/LAB/lab_09 |
 |   10      |  26-10-2023 |      lab10       |Create a Python Class for managing student details and marks. | https://github.com/Sarnalikapaul/MscDSB-MSD171-23122130-SarnalikaPaul/blob/main/LAB/lab_10.py |
 |   11      |  19-19-2023 |      CAC 1      |ased on the assigned groups, choose a unique domain and find the appropriate application of the following components in various use cases. Prepare a handwritten document in not less than two sides of an A4 sheet, summarising your findings and justifying the importance of using the component.| https://github.com/Sarnalikapaul/MscDSB-MSD171-23122130-SarnalikaPaul/blob/main/CAC/cac01.ipynb|
-|   12      |  25-10-2023 |      CAC 2       |The team must identify a Domain related to Lavasa (Student Life, Traveling Preferences, Food Preferences...), create a unique problem statement associated with the domain, and determine the attributes associated with  the problem. | https://github.com/AmanRana07/MscDSB-MDS171-23122105-Aman/tree/main/CAC2 |
+|   12      |  25-10-2023 |      CAC 2       |The team must identify a Domain related to Lavasa (Student Life, Traveling Preferences, Food Preferences...), create a unique problem statement associated with the domain, and determine the attributes associated with  the problem. | https://github.com/Sarnalikapaul/MscDSB-MSD171-23122130-SarnalikaPaul/tree/main/CAC/cac02|
 
 
  
